@@ -33,7 +33,7 @@ Moodify is a minimalist web app inspired by Spotify's interface. The project let
 ### 🖿 Project structure
 
 ```
-Moodify/
+moodify/
 ├── Assets/
 │   ├── album-cover.png
 │   └── spotify-icon.svg
